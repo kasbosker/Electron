@@ -1,0 +1,71 @@
+[
+    {
+
+    "temperatuur": "18",
+
+    "grondvochtigheid": "220",
+
+    "tijd" : "1554444382"
+
+    },
+
+    {
+
+    "temperatuur": "15",
+
+    "grondvochtigheid": "250",
+
+    "tijd" : "1554453382"
+
+    },
+
+    {
+
+    "temperatuur": "17",
+
+    "grondvochtigheid": "220",
+
+    "tijd" : "1554453382"
+
+    },
+
+    {
+
+    "temperatuur": "16",
+
+    "grondvochtigheid": "210",
+
+    "tijd" : "1554453382"
+
+    },
+
+    {
+
+    "temperatuur": "18",
+
+    "grondvochtigheid": "223",
+
+    "tijd" : "1554453382"
+
+    },
+
+    {
+
+    "temperatuur": "20",
+
+    "grondvochtigheid": "220",
+
+    "tijd" : "1554453382"
+
+    },
+
+    {
+
+    "temperatuur": "21",
+
+    "grondvochtigheid": "220",
+
+    "tijd" : "1554453382"
+
+    }
+  ]

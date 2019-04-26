@@ -1,0 +1,11 @@
+{
+  "cols":[
+    {"id":"","label":"date","type":"string"},
+    {"id":"","label":"run","type":"number"},
+    {"id":"","label":"passed","type":"number"}
+  ],
+  "rows":[
+    {"c":[{"v":"2012-07-20"},{"v":9},{"v":0}]},
+    {"c":[{"v":"2012-07-23"},{"v":0},{"v":0}]}
+  ]
+}

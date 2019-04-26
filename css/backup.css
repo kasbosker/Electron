@@ -1,0 +1,42 @@
+main , body {
+  margin: 0;
+  padding: 0;
+}
+
+nav img {
+  width: 100px;
+  height: auto;
+}
+
+nav a {
+  margin-right: 60px;
+  font-size: 25px;
+}
+
+nav a:hover {
+  transition: 0.3s;
+  border-bottom: solid medium white;
+  color: white;
+}
+
+nav .dropdown-item  {
+  font-size: 15px;
+  text-align: center;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+footer li {
+  width: 100%;
+  color: white;
+  list-style: none;
+  display: inline;
+}
+
+footer .social{
+  margin-left: 45%;
+}

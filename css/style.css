@@ -1,0 +1,72 @@
+main , body {
+  margin: 0;
+  padding: 0;
+}
+
+nav img {
+  width: 100px;
+  height: auto;
+}
+
+nav a {
+  margin-right: 60px;
+  font-size: 25px;
+}
+
+nav a:hover {
+  transition: 0.3s;
+  border-bottom: solid medium white;
+  color: white;
+}
+
+nav .dropdown-item  {
+  font-size: 15px;
+  text-align: center;
+}
+
+main .top5  {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+  padding-top: 25px;
+}
+
+main .container-fluid .row .lijst h2 {
+  font-style: 5px;
+  padding-bottom: 10px;
+  padding-top: 50px;
+}
+
+main .container-fluid .row .lijst a {
+  color: black;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+main .container-fluid .row .lijst li {
+  padding-top: 10px;
+}
+
+main .container-fluid .row .lijst li:hover {
+  transition: 0.3s;
+  border-bottom: solid black medium;
+  width: 100px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+footer li {
+  width: 100%;
+  color: white;
+  list-style: none;
+  display: inline;
+}
+
+footer .social{
+  margin-left: 45%;
+}
